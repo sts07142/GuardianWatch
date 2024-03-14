@@ -4,7 +4,7 @@
 # Environments
 *  OS : Linux Ubuntu 20.04.6 LTS
 * CPU : Intel i9-9900KF
-* GPU : RTX 2080Ti
+* GPU : RTX 2080Ti 11GB
 * RAM : 64G
 
 * CUDA : 11.8
