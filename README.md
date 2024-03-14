@@ -3,11 +3,11 @@
 
 # Environments
 *  OS : Linux Ubuntu 20.04.6 LTS
-* CPU : 
-* GPU : 
+* CPU : Intel i9-9900KF
+* GPU : RTX 2080Ti
 * RAM : 64G
 
-* CUDA : 11.07
+* CUDA : 11.8
 
 # Library
 * packagelist.txt
